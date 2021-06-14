@@ -1,18 +1,18 @@
 <br/>
 <div align="center">
   <img
-    src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/python.svg"
+    src="https://cdn.worldvectorlogo.com/logos/python-5.svg"
     width="70px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="./mantan.svg"
+    src=""
     width="70px"
     />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
     width="70px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    src="https://p.kindpng.com/picc/s/128-1280192_github-logo-png-github-png-transparent-png.png"
     width="70px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
