@@ -5,14 +5,14 @@
     width="70px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src=""
+    src="https://cdn.worldvectorlogo.com/logos/shopify.svg"
     width="70px"
     />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
     width="70px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://p.kindpng.com/picc/s/128-1280192_github-logo-png-github-png-transparent-png.png"
+    src="https://github.com/miguel-mantan/miguel-mantan/blob/main/image.png?raw=true"
     width="70px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
