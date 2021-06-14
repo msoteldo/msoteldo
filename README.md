@@ -12,7 +12,7 @@
     src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
     width="70px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://github.com/miguel-mantan/miguel-mantan/blob/main/image.png?raw=true"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
     width="70px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
