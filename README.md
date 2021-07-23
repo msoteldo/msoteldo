@@ -26,6 +26,6 @@
   <br />
   <br />
   <img
-    src="http://github-readme-streak-stats.herokuapp.com?user=miguel-mantan&theme=black-ice&hide_border=true&fire=DDDDDD)](https://git.io/streak-stats"
+    src="http://github-readme-streak-stats.herokuapp.com?user=msoteldo&theme=black-ice&hide_border=true&fire=DDDDDD)](https://git.io/streak-stats"
   />
 </div>
