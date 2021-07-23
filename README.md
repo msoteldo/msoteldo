@@ -21,7 +21,7 @@
   <br />
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=miguel-mantan&show_icons=true&bg_color=151515&hide_border=true&text_color=FFF&title_color=00e5fe&icon_color=00e5fe"
+    src="https://github-readme-stats.vercel.app/api?username=msoteldo&show_icons=true&bg_color=151515&hide_border=true&text_color=FFF&title_color=00e5fe&icon_color=00e5fe"
   />
   <br />
   <br />
