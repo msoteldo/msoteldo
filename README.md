@@ -5,7 +5,7 @@
     width="70px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
+    src="[https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png](https://cdn.worldvectorlogo.com/logos/c--4.svg)"
     width="70px"
     />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
